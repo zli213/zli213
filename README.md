@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zli213
 - 👀 I’m interested in software development, machine learning, and artificial intelligence.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, Java, C#, Python, and .NET.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, Java, C#, Python, React and .NET.
 - 💞️ I’m looking to collaborate on internships and projects related to software development.
 - 📫 How to reach me lzh8612@outlook.com.
 
