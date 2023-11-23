@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zli213
-- 🔗 Check out my portfolio: ralph-li-portfolio.vercel.app
+- 🔗 Check out my portfolio: [ralph-li-portfolio.vercel.app](https://ralph-li-portfolio.vercel.app)
 - 👀 I’m interested in software development, machine learning, and artificial intelligence.
 - 🌱 I’m currently learning React, Next.js, cloud services with AWS, and honing my problem-solving skills through algorithmic challenges.
 - 💞️ I’m looking to collaborate on internships and projects related to software development.
