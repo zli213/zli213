@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zli213
+- 🔗 Check out my portfolio: ralph-li-portfolio.vercel.app
 - 👀 I’m interested in software development, machine learning, and artificial intelligence.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, Java, C#, Python, React and .NET.
+- 🌱 I’m currently learning React, Next.js, cloud services with AWS, and honing my problem-solving skills through algorithmic challenges.
 - 💞️ I’m looking to collaborate on internships and projects related to software development.
 - 📫 How to reach me lzh8612@outlook.com.
  
