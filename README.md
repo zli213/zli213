@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development, machine learning, and artificial intelligence.
 - 🌱 I’m currently learning React, Next.js, cloud services with AWS, and honing my problem-solving skills through algorithmic challenges.
 - 💞️ I’m looking to collaborate on internships and projects related to software development.
-- 📫 How to reach me lzh8612@outlook.com.
+- 📫 How to reach me zhaohua.li213@gmail.com.
  
   ![Ralph's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=zli213&show_icons=true&count_private=true&theme=gotham&langs_count=10)
 <!---
